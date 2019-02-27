@@ -1,1 +1,9 @@
-baseurl: /hanyang1986
+url: "https://hanyang1986.github.io"
+baseurl: ""
+title: Brave New World
+email: hanyang19862gmail.com
+description: My name is Yang Han. Now I'm a student of TU Darmstadt.
+theme: minima
+plugins:
+  - jekyll-feed
+
