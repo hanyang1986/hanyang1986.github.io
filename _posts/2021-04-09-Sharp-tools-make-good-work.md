@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sharp tools make good work
+title: A recommended buying list for a  programmer 
 image: /img/090421.png
 comments: true
 ---
