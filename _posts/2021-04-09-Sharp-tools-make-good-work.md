@@ -21,6 +21,12 @@ As a programmer, mouse is so important that we use it very frequently everyday. 
 
 > - **Wrist Rest Pad**
 
-Maybe for a programmer, a mechanic keyboard is just like a sword for a soldier. Many programmers would like to choose a mechanic keyboard with cherry blue switch. However, some mechanic keyboard doesn't have a wrist rest pad. The height of mechanic keyboard is more than 2cm. If you use the mechanic keyboard without wrist rest pad, after typing for a long time, your wrist will feel very unconformable. SO, if you don't have a wrist rest pad, I suggest you buy one. I use the wrist rest pad produced by Kingston Hyper X. 
+Maybe for a programmer, a mechanic keyboard is just like a sword for a soldier. Many programmers would like to choose a mechanic keyboard with cherry blue switch. However, some mechanic keyboard doesn't have a wrist rest pad. The height of mechanic keyboard is more than 2cm. If you use the mechanic keyboard without wrist rest pad, after typing for a long time, your wrist will feel very unconformable. SO, if you don't have a wrist rest pad, I suggest you buy one. I use the wrist rest pad produced by Kingston Hyper X.
 
 ![HyperX HX-WR Wrist Rest Pad](/img/Kingston.jpg)
+
+> - **Horizontal Bar indoor**
+
+Due to corona pandemic
+
+![Horizontal Bar indoor](/img/Horizontal_Bar.jpg)
