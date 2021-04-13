@@ -27,6 +27,6 @@ Maybe for a programmer, a mechanic keyboard is just like a sword for a soldier. 
 
 > - **Horizontal Bar indoor**
 
-Due to corona pandemic
+Due to corona pandemic, many people have to work at home. Keeping work and life balance is not easy for the programmers when they switch home office mode. In Germany all the gyms are closed, So I have to learn fitness indoor. To avoid the spondylosis, I would like to buy a Horizontal Bar indoor like the below one. It can strengthen my neck muscle that can support the cervical spine better.
 
 ![Horizontal Bar indoor](/img/Horizontal_Bar.jpg)
