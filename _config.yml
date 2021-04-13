@@ -126,6 +126,7 @@ share-links-active:
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
+staticman_url: https://api.staticman.net/v3/entry/github/hanyang1986/hanyang1986.github.io/master/comments
 
 
 # --- Misc --- #
