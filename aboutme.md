@@ -4,7 +4,7 @@ title: Who am I ?
 subtitle: 
 ---
 
-My name is Yang Han. Now I'm studying in TU Darmstadt. Previously I lived in China and worked as electrical engineer in CNPC. I shortly worked as automotive reporter. 
+My name is Yang Han. Currently I am working at Accenture as software developer.
 
 
 ### my 
